@@ -7,3 +7,4 @@ he must never look into cheat sheets to master all his git tasks.
 * knows all commands and options
 * knows always all branches and remotes that are in use
 
+> gitalavista baby
