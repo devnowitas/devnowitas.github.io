@@ -8,3 +8,6 @@ he must never look into cheat sheets to master all his git tasks.
 * knows always all branches and remotes that are in use
 
 > gitalavista baby
+
+
+<img src="4203366.png"/>
